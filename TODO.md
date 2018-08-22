@@ -48,6 +48,7 @@ NOTES:
 - def test_return_expr_not_none(self): why not return Optional[int]
 - when argument annotation is invalid, should we still annotate for return type
 - no long form for py3 type annotations
+- calling python toto\toto.py to collect info, then annotate toto\toto.py won't work
 
 
 TODO Short Term:
