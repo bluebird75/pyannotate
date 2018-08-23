@@ -2,6 +2,3 @@
 /*.egg-info
 /build
 /dist
-type_info.json
-.idea/
-*.pyc
