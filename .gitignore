@@ -2,3 +2,5 @@
 /*.egg-info
 /build
 /dist
+.idea/
+type_info.json
